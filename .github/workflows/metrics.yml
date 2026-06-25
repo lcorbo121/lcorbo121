@@ -25,36 +25,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # 2) Lenguajes (análisis en profundidad, incluye repos privados con el token)
-      - name: Metrics — lenguajes
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: lcorbo121
-          filename: metrics.languages.svg
-          base: ""
-          config_timezone: America/Montevideo
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-
-      # 3) Hábitos de programación + datos curiosos
-      - name: Metrics — hábitos
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: lcorbo121
-          filename: metrics.habits.svg
-          base: ""
-          config_timezone: America/Montevideo
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-
-      # 4) Líneas de código modificadas
+      # 2) Líneas de código modificadas
       - name: Metrics — líneas de código
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:

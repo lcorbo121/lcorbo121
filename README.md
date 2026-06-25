@@ -95,13 +95,6 @@ Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construy
   <img src="./metrics.svg" alt="Metrics — calendario y actividad"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td><img src="./metrics.languages.svg" alt="Lenguajes"/></td>
-    <td><img src="./metrics.habits.svg" alt="Hábitos de programación"/></td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="./metrics.lines.svg" alt="Líneas de código modificadas"/>
 </p>
