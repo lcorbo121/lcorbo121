@@ -89,8 +89,11 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lcorbo121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcorbo121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/lcorbo121" alt="Contribuciones en el último año" width="80%"/>
 </p>
 
 <p align="center">
