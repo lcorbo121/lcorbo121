@@ -17,6 +17,7 @@
 
 Construyo **APIs y servicios backend** robustos, integro **inteligencia artificial** en flujos reales de negocio y desarrollo **soluciones full-stack** de punta a punta. Me enfoco en código mantenible (principios SOLID, arquitectura por capas) y en automatizar procesos que ahorran tiempo a las personas.
 
+- 💼 **Desarrollador Full-Stack en [Datamatic](https://www.datamatic.com.uy)** (8 hs diarias) desde enero de 2025.
 - 🔭 Actualmente desarrollo bots conversacionales con IA (LLMs) integrados a WhatsApp y sistemas de gestión empresarial.
 - 🌱 Profundizando en arquitectura de software, diseño de APIs y buenas prácticas.
 - 💬 Pregúntame sobre **Node.js, C#/.NET, PHP, integraciones de IA y automatización**.
@@ -32,6 +33,8 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -49,6 +52,10 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
