@@ -86,8 +86,6 @@ Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construy
   <img src="./metrics.lines.svg" alt="Líneas de código modificadas"/>
 </p>
 
-<sub>📈 Tarjetas generadas automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> y actualizadas a diario.</sub>
-
 ---
 
 ### 🎓 Formación
