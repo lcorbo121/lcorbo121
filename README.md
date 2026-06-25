@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/dev-console.svg" width="100%" alt="Lucas Corbo — Dev Console"/>
+</p>
+
+<br>
+
 <img align="left" width="430" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2F81F7&width=430&height=130&lines=Full-Stack+Developer;IT+Support+Specialist;JS+%C2%B7+PHP%2FYii2+%C2%B7+SQL;IA+en+el+flujo+de+desarrollo" alt="Lucas Corbo — Full-Stack Developer"/>
 
 ### Hola, soy Lucas 👋
