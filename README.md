@@ -52,7 +52,22 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 
 ---
 
-### 📌 Proyectos destacados
+### ⭐ Proyecto principal — MiTrabajo
+
+**Plataforma de gestión empresarial** en producción, desarrollada en equipo. Trabajo en módulos de encuestas, informes, reportería y nuevas funcionalidades sobre una base de código grande y de uso real.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-827-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Líneas%20aportadas-+238K-blue?style=for-the-badge" alt="Líneas"/>
+  <img src="https://img.shields.io/badge/Desde-Mar%202025-orange?style=for-the-badge" alt="Antigüedad"/>
+  <img src="https://img.shields.io/badge/Stack-PHP%20·%20JS%20·%20MySQL-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Stack"/>
+</p>
+
+> 🔒 Repositorio privado del equipo. Métricas correspondientes a mi contribución personal.
+
+---
+
+### 📌 Otros proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
