@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -17,7 +14,7 @@ jobs:
     steps:
       # 1) Tarjeta principal: cabecera + calendario isométrico (año completo)
       - name: Metrics — base + calendario
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lcorbo121
@@ -30,7 +27,7 @@ jobs:
 
       # 2) Lenguajes (análisis en profundidad, incluye repos privados con el token)
       - name: Metrics — lenguajes
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lcorbo121
@@ -44,7 +41,7 @@ jobs:
 
       # 3) Hábitos de programación + datos curiosos
       - name: Metrics — hábitos
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lcorbo121
@@ -59,7 +56,7 @@ jobs:
 
       # 4) Líneas de código modificadas
       - name: Metrics — líneas de código
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lcorbo121
