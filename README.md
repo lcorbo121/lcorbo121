@@ -89,19 +89,24 @@ Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construy
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Métricas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcorbo121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="./metrics.svg" alt="Metrics — calendario y actividad"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/lcorbo121" alt="Contribuciones en el último año" width="80%"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./metrics.languages.svg" alt="Lenguajes"/></td>
+    <td><img src="./metrics.habits.svg" alt="Hábitos de programación"/></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcorbo121&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="./metrics.lines.svg" alt="Líneas de código modificadas"/>
 </p>
+
+<sub>📈 Tarjetas generadas automáticamente con <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> y actualizadas a diario.</sub>
 
 ---
 

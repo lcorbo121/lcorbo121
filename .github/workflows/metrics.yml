@@ -1,0 +1,69 @@
+name: Metrics
+on:
+  # Se actualiza solo todos los días a las 00:00 (hora UY) y se puede correr a mano
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Tarjeta principal: cabecera + calendario isométrico (año completo)
+      - name: Metrics — base + calendario
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lcorbo121
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Montevideo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 2) Lenguajes (análisis en profundidad, incluye repos privados con el token)
+      - name: Metrics — lenguajes
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lcorbo121
+          filename: metrics.languages.svg
+          base: ""
+          config_timezone: America/Montevideo
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+      # 3) Hábitos de programación + datos curiosos
+      - name: Metrics — hábitos
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lcorbo121
+          filename: metrics.habits.svg
+          base: ""
+          config_timezone: America/Montevideo
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+      # 4) Líneas de código modificadas
+      - name: Metrics — líneas de código
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lcorbo121
+          filename: metrics.lines.svg
+          base: ""
+          config_timezone: America/Montevideo
+          plugin_lines: yes
