@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Lucas Corbo 👋</h1>
 
 <p align="center">
-  <b>Desarrollador Backend &amp; Full-Stack</b> · Automatización e Integraciones con IA<br/>
-  📍 Uruguay · 💼 <a href="https://www.datamatic.com.uy">Datamatic</a>
+  <b>Full-Stack Developer</b> · IT Support Specialist · Analista en Tecnologías de la Información<br/>
+  📍 Montevideo, Uruguay · 💼 <a href="https://www.datamatic.com.uy">Datamatic</a>
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ### 🚀 Sobre mí
 
-Construyo **APIs y servicios backend** robustos, integro **inteligencia artificial** en flujos reales de negocio y desarrollo **soluciones full-stack** de punta a punta. Me enfoco en código mantenible (principios SOLID, arquitectura por capas) y en automatizar procesos que ahorran tiempo a las personas.
+Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construyo aplicaciones web con **JavaScript, PHP (Yii2) y SQL** bajo arquitectura **MVC**, optimizo bases de datos y acompaño al usuario final en todo el ciclo: migración, implementación, soporte y mejora continua. Integro **IA (LLMs)** en el flujo de desarrollo —revisión de código, debugging y documentación— manteniendo criterio técnico propio sobre las soluciones.
 
-- 💼 **Desarrollador Full-Stack en [Datamatic](https://www.datamatic.com.uy)** (8 hs diarias) desde enero de 2025.
-- 🔭 Actualmente desarrollo bots conversacionales con IA (LLMs) integrados a WhatsApp y sistemas de gestión empresarial.
-- 🌱 Profundizando en arquitectura de software, diseño de APIs y buenas prácticas.
-- 💬 Pregúntame sobre **Node.js, C#/.NET, PHP, integraciones de IA y automatización**.
+- 💼 **Full-Stack Developer & Soporte IT en [Datamatic](https://www.datamatic.com.uy) (Asequis S.A.)** — 8 hs diarias, presencial.
+- 🎓 Cursando **Analista en Tecnologías de la Información** en la **Universidad ORT Uruguay**.
+- 🔭 Desarrollo bots conversacionales con IA integrados a WhatsApp y mejoras sobre el sistema de gestión **MiTrabajo**.
+- 💬 Hablemos de **Full-Stack (JS · PHP/Yii2 · SQL)**, bases de datos e integración de IA.
 
 ---
 
@@ -28,19 +28,22 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 
 **Lenguajes**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend & Frameworks**
+**Frameworks & Plataformas**
 
+![Yii2](https://img.shields.io/badge/Yii2-0073BB?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 **Datos & IA**
 
@@ -99,6 +102,14 @@ Construyo **APIs y servicios backend** robustos, integro **inteligencia artifici
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcorbo121&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
+
+---
+
+### 🎓 Formación
+
+- **Analista en Tecnologías de la Información** — Universidad ORT Uruguay *(en curso)*
+- **Bachillerato Tecnológico – Auxiliar Técnico en Informática** — Polo Tecnológico (UTU) *(finalizado)*
+- **Formación en idioma Inglés** — English Connect
 
 ---
 
