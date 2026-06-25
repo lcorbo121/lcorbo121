@@ -1,22 +1,17 @@
+<!-- Presentación animada (estilo MasonSlover) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+I'm+Lucas+Corbo;Full-Stack+Developer+%26+IT+Support+Specialist;I+build+web+apps+with+JS,+PHP%2FYii2+%26+SQL;Currently+building+MiTrabajo+%40+Datamatic;Always+learning+-+open+to+new+opportunities!" alt="Hey there! I'm Lucas Corbo"/>
+</p>
+
 <p align="center">
   <img src="./assets/dev-console.svg" width="100%" alt="Lucas Corbo — Dev Console"/>
 </p>
 
-<br>
-
-<img align="left" width="430" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2F81F7&width=430&height=130&lines=Full-Stack+Developer;IT+Support+Specialist;JS+%C2%B7+PHP%2FYii2+%C2%B7+SQL;IA+en+el+flujo+de+desarrollo" alt="Lucas Corbo — Full-Stack Developer"/>
-
-### Hola, soy Lucas 👋
-
-Desarrollador **Full-Stack** y especialista en **Soporte IT**.
-
-📍 Montevideo, Uruguay · 💼 [Datamatic](https://www.datamatic.com.uy)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcorbo-garateguy/) [![Email laboral](https://img.shields.io/badge/Email%20laboral-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lcorbo@datamatic.com.uy) [![Email personal](https://img.shields.io/badge/Email%20personal-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.corbo.garateguy@gmail.com)
-
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lcorbo-garateguy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lcorbo@datamatic.com.uy"><img src="https://img.shields.io/badge/Email%20laboral-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email laboral"/></a>
+  <a href="mailto:lucas.corbo.garateguy@gmail.com"><img src="https://img.shields.io/badge/Email%20personal-D14836?style=flat&logo=gmail&logoColor=white" alt="Email personal"/></a>
+</p>
 
 ---
 
