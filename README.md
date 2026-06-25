@@ -1,15 +1,16 @@
-<h1 align="center">Hola, soy Lucas Corbo 👋</h1>
+<img align="left" width="430" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2F81F7&width=430&height=130&lines=Full-Stack+Developer;IT+Support+Specialist;JS+%C2%B7+PHP%2FYii2+%C2%B7+SQL;IA+en+el+flujo+de+desarrollo" alt="Lucas Corbo — Full-Stack Developer"/>
 
-<p align="center">
-  <b>Full-Stack Developer</b> · IT Support Specialist · Analista en Tecnologías de la Información<br/>
-  📍 Montevideo, Uruguay · 💼 <a href="https://www.datamatic.com.uy">Datamatic</a>
-</p>
+### Hola, soy Lucas 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lcorbo-garateguy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:lcorbo@datamatic.com.uy"><img src="https://img.shields.io/badge/Email%20laboral-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email laboral"/></a>
-  <a href="mailto:lucas.corbo.garateguy@gmail.com"><img src="https://img.shields.io/badge/Email%20personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email personal"/></a>
-</p>
+Desarrollador **Full-Stack** y especialista en **Soporte IT**.
+
+📍 Montevideo, Uruguay · 💼 [Datamatic](https://www.datamatic.com.uy)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcorbo-garateguy/) [![Email laboral](https://img.shields.io/badge/Email%20laboral-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lcorbo@datamatic.com.uy) [![Email personal](https://img.shields.io/badge/Email%20personal-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.corbo.garateguy@gmail.com)
+
+<br>
+<br>
+<br>
 
 ---
 
