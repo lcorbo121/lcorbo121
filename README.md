@@ -15,14 +15,11 @@
 
 ---
 
-### 🚀 Sobre mí
+<h3 align="center">🚀 Sobre mí</h3>
 
-Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construyo aplicaciones web con **JavaScript, PHP (Yii2) y SQL** bajo arquitectura **MVC**, optimizo bases de datos y acompaño al usuario final en todo el ciclo: migración, implementación, soporte y mejora continua. Integro **IA (LLMs)** en el flujo de desarrollo —revisión de código, debugging y documentación— manteniendo criterio técnico propio sobre las soluciones.
-
-- 💼 **Full-Stack Developer & Soporte IT en [Datamatic](https://www.datamatic.com.uy) (Asequis S.A.)** desde marzo de 2025 — 8 hs diarias, presencial.
-- 🎓 Cursando **Analista en Tecnologías de la Información** en la **Universidad ORT Uruguay**.
-- 🔭 Desarrollo bots conversacionales con IA integrados a WhatsApp y mejoras sobre el sistema de gestión **MiTrabajo**.
-- 💬 Hablemos de **Full-Stack (JS · PHP/Yii2 · SQL)**, bases de datos e integración de IA.
+<p align="center">
+  <img src="./assets/about-console.svg" width="100%" alt="Sobre mí — Lucas Corbo"/>
+</p>
 
 ---
 
