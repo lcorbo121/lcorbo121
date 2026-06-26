@@ -1,8 +1,3 @@
-<!-- Presentación animada (estilo MasonSlover) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+I'm+Lucas+Corbo;Full-Stack+Developer+%26+IT+Support+Specialist;I+build+web+apps+with+JS,+PHP%2FYii2+%26+SQL;Currently+building+MiTrabajo+%40+Datamatic;Always+learning+-+open+to+new+opportunities!" alt="Hey there! I'm Lucas Corbo"/>
-</p>
-
 <p align="center">
   <img src="./assets/console.svg" width="100%" alt="Lucas Corbo — Console"/>
 </p>
@@ -14,8 +9,6 @@
 </p>
 
 ---
-
-<h3 align="center">🛠️ Stack tecnológico</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,mysql,java,cs,html,css,less&theme=dark" alt="Lenguajes"/>
@@ -31,17 +24,36 @@
 
 ---
 
-### 📌 Proyectos destacados
+<h3 align="center">📌 Proyectos destacados</h3>
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🤖 **Bot WhatsApp con IA** | Asistente conversacional integrado a WhatsApp con respuestas generadas por IA, base de conocimiento y aprendizaje continuo. | `Node.js` `LLMs` `MySQL` |
-| 🧩 [**StellarMinds-API-SOLID**](https://github.com/lcorbo121/StellarMinds-API-SOLID) | API REST construida aplicando principios SOLID y arquitectura limpia. | `C#` `.NET` |
-| 🌐 [**StellarMinds-MVC**](https://github.com/lcorbo121/StellarMinds-MVC) | Aplicación web bajo patrón MVC. | `C#` `.NET` `HTML` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 MiTrabajo &nbsp;<sub>🔒 privado</sub></h4>
+      <p>Plataforma de gestión empresarial (ERP) en producción y multiempresa. Trabajo full-stack en módulos de RR.&nbsp;HH., encuestas, informes y reportería sobre una base de código grande y de uso real.</p>
+      <p><code>PHP</code> <code>Yii2</code> <code>SQL</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Bot WhatsApp con IA &nbsp;<sub>🔒 privado</sub></h4>
+      <p>Asistente conversacional integrado a WhatsApp con respuestas generadas por IA, base de conocimiento y aprendizaje continuo.</p>
+      <p><code>Node.js</code> <code>LLMs</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 <a href="https://github.com/lcorbo121/StellarMinds-API-SOLID">StellarMinds-API-SOLID</a></h4>
+      <p>API REST construida aplicando principios SOLID y arquitectura limpia.</p>
+      <p><code>C#</code> <code>.NET</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/lcorbo121/StellarMinds-MVC">StellarMinds-MVC</a></h4>
+      <p>Aplicación web bajo el patrón MVC.</p>
+      <p><code>C#</code> <code>.NET</code> <code>HTML</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<h3 align="center">🐍 Contribuciones</h3>
 
 <p align="center">
   <picture>
