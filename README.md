@@ -73,11 +73,34 @@
 
 ---
 
-### 🎓 Formación
+<h3 align="center">🎓 Formación</h3>
 
-- **Analista en Tecnologías de la Información** — Universidad ORT Uruguay *(en curso)*
-- **Bachillerato Tecnológico – Auxiliar Técnico en Informática** — Polo Tecnológico (UTU) *(finalizado)*
-- **Formación en idioma Inglés** — English Connect
+<table align="center">
+  <tr>
+    <td align="center" width="56">🎓</td>
+    <td>
+      <b>Analista en Tecnologías de la Información</b><br/>
+      <sub>Universidad ORT Uruguay · 2025</sub>
+    </td>
+    <td align="center"><img src="https://img.shields.io/badge/En%20curso-2EA44F?style=flat-square&logoColor=white" alt="En curso"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="56">🖥️</td>
+    <td>
+      <b>Bachillerato Tecnológico — Auxiliar Técnico en Informática</b><br/>
+      <sub>Polo Tecnológico (UTU) · 2019–2021</sub>
+    </td>
+    <td align="center"><img src="https://img.shields.io/badge/Finalizado-3B82F6?style=flat-square&logoColor=white" alt="Finalizado"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="56">🌐</td>
+    <td>
+      <b>Formación en idioma Inglés</b><br/>
+      <sub>English Connect · 2022–2024</sub>
+    </td>
+    <td align="center"><img src="https://img.shields.io/badge/Finalizado-3B82F6?style=flat-square&logoColor=white" alt="Finalizado"/></td>
+  </tr>
+</table>
 
 ---
 
