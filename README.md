@@ -39,8 +39,6 @@
 | 🧩 [**StellarMinds-API-SOLID**](https://github.com/lcorbo121/StellarMinds-API-SOLID) | API REST construida aplicando principios SOLID y arquitectura limpia. | `C#` `.NET` |
 | 🌐 [**StellarMinds-MVC**](https://github.com/lcorbo121/StellarMinds-MVC) | Aplicación web bajo patrón MVC. | `C#` `.NET` `HTML` |
 
-> 💡 Algunos de mis proyectos profesionales son privados. ¡Con gusto te muestro más en una entrevista!
-
 ---
 
 <h3 align="center">🐍 Contribuciones</h3>
