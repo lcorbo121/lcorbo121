@@ -43,14 +43,14 @@
 
 ---
 
-### 📊 Métricas de GitHub
+<h3 align="center">🐍 Contribuciones</h3>
 
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics — calendario y actividad"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.lines.svg" alt="Líneas de código modificadas"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcorbo121/lcorbo121/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcorbo121/lcorbo121/output/github-snake.svg" />
+    <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/lcorbo121/lcorbo121/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
