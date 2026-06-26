@@ -9,15 +9,18 @@
   <circle cx="99" cy="46" r="8" fill="#34D399"/>
   <text x="132" y="52" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">LCORBO121 / IT ANALYST</text>
   <text x="980" y="52" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">MONTEVIDEO UTC-3</text>
-  <text x="56" y="150" fill="#E6EDF3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="800">Lucas builds full-stack </text>
-  <text x="56" y="204" fill="#E6EDF3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="800">that solve real problems.</text>
-  <text x="58" y="254" fill="#A5B4FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23">Web systems, databases, IT support &amp; AI-assisted development.</text>
+  <text x="56" y="152" fill="#E6EDF3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="800">Lucas builds full-stack apps</text>
+  <text x="56" y="202" fill="#E6EDF3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="800">that solve real problems.</text>
+  <text x="58" y="252" fill="#A5B4FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Web systems, databases, IT support</text>
+  <text x="58" y="280" fill="#A5B4FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">&amp; AI-assisted development.</text>
+
   <rect x="754" y="132" width="390" height="202" rx="18" fill="#0F172A"/>
   <rect x="755" y="133" width="388" height="200" rx="17" stroke="#334155" stroke-width="2"/>
-  <text x="784" y="174" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ now</text>
-  <text x="784" y="174" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-Stack @ Datamatic</text>
-  <text x="784" y="314" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ mode</text>
-  <text x="877" y="314" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">turn ideas into systems</text>
+  <text x="784" y="184" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ now</text>
+  <text x="784" y="214" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-Stack @ Datamatic</text>
+  <text x="784" y="266" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ mode</text>
+  <text x="784" y="296" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">turn ideas into systems</text>
+
   <rect x="56" y="324" width="66" height="34" rx="9" fill="#1E293B" stroke="#334155"/>
   <text x="78" y="347" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">PHP</text>
   <rect x="136" y="324" width="70" height="34" rx="9" fill="#1E293B" stroke="#334155"/>
