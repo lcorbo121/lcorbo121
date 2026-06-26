@@ -15,7 +15,7 @@
   <rect x="754" y="132" width="390" height="202" rx="18" fill="#0F172A"/>
   <rect x="755" y="133" width="388" height="200" rx="17" stroke="#334155" stroke-width="2"/>
   <text x="784" y="174" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ now</text>
-  <text x="784" y="204" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">building MiTrabajo</text>
+  <text x="784" y="204" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">dev @ Datamatic, Uruguay</text>
   <text x="784" y="244" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ stack</text>
   <text x="784" y="274" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">php yii2 js sql</text>
   <text x="784" y="314" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ mode</text>
