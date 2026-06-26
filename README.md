@@ -94,15 +94,7 @@
     </td>
     <td align="center"><img src="https://img.shields.io/badge/Finalizado-3B82F6?style=flat-square&logoColor=white" alt="Finalizado"/></td>
   </tr>
-  <tr>
-    <td align="center" width="56">🌐</td>
-    <td>
-      <b>Formación en idioma Inglés</b><br/>
-      <sub>English Connect · 2022–2024</sub>
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/Finalizado-3B82F6?style=flat-square&logoColor=white" alt="Finalizado"/></td>
-  </tr>
-</table>
+  </table>
 
 ---
 
