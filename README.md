@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/console.svg" width="100%" alt="Lucas Corbo — Console"/>
+  <img src="./assets/console.svg?v=2" width="100%" alt="Lucas Corbo — Console"/>
 </p>
 
 <p align="center">
