@@ -24,29 +24,29 @@
 
 ---
 
-<h3 align="center">📌 Proyectos destacados</h3>
+<h3 align="center">Proyectos destacados</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚌 <a href="https://github.com/lcorbo121/MiBondi">MiBondi</a> &nbsp;<sub><a href="https://mibuscorbo.somee.com/">🔗 demo en vivo</a></sub></h4>
+      <h4><a href="https://github.com/lcorbo121/MiBondi">MiBondi</a> &nbsp;<sub><a href="https://mibuscorbo.somee.com/">🔗 demo en vivo</a></sub></h4>
       <p>App web que muestra sobre un mapa, en tiempo real, la posición de los ómnibus del Sistema de Transporte Metropolitano (STM) de Montevideo.</p>
       <p><code>C#</code> <code>ASP.NET Core</code> <code>MVC</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 MiTrabajo &nbsp;<sub>🔒 privado</sub></h4>
+      <h4><a href="https://www.mitrabajo.com.uy/">MiTrabajo</a> &nbsp;<sub>by Datamatic · 🔒 privado</sub></h4>
       <p>Plataforma de gestión empresarial (ERP) en producción y multiempresa. Trabajo full-stack en módulos de RR.&nbsp;HH., encuestas, informes y reportería sobre una base de código grande y de uso real.</p>
       <p><code>PHP</code> <code>Yii2</code> <code>SQL</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Bot WhatsApp con IA &nbsp;<sub>🔒 privado</sub></h4>
+      <h4>Bot WhatsApp con IA &nbsp;<sub>🔒 privado</sub></h4>
       <p>Asistente conversacional integrado a WhatsApp con respuestas generadas por IA, base de conocimiento y aprendizaje continuo.</p>
       <p><code>Node.js</code> <code>LLMs</code> <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧩 <a href="https://github.com/lcorbo121/StellarMinds-API-SOLID">StellarMinds-API-SOLID</a></h4>
+      <h4><a href="https://github.com/lcorbo121/StellarMinds-API-SOLID">StellarMinds-API-SOLID</a></h4>
       <p>API REST construida aplicando principios SOLID y arquitectura limpia.</p>
       <p><code>C#</code> <code>.NET</code></p>
     </td>
