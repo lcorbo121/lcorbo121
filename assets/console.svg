@@ -16,8 +16,6 @@
   <rect x="755" y="133" width="388" height="200" rx="17" stroke="#334155" stroke-width="2"/>
   <text x="784" y="174" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ now</text>
   <text x="784" y="204" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-Stack @ Datamatic, Uruguay</text>
-  <text x="784" y="244" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ stack</text>
-  <text x="784" y="274" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">php yii2 js sql</text>
   <text x="784" y="314" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ mode</text>
   <text x="877" y="314" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">ship useful software</text>
   <rect x="56" y="324" width="66" height="34" rx="9" fill="#1E293B" stroke="#334155"/>
