@@ -34,7 +34,7 @@
       <p><code>C#</code> <code>ASP.NET Core</code> <code>MVC</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://www.mitrabajo.com.uy/">MiTrabajo</a> &nbsp;<sub>by Datamatic · 🔒 privado</sub></h4>
+      <h4>MiTrabajo &nbsp;<sub><a href="https://www.mitrabajo.com.uy/">🔗 Link</a> · by Datamatic · 🔒 privado</sub></h4>
       <p>Plataforma de gestión empresarial (ERP) en producción y multiempresa. Trabajo full-stack en módulos de RR.&nbsp;HH., encuestas, informes y reportería sobre una base de código grande y de uso real.</p>
       <p><code>PHP</code> <code>Yii2</code> <code>SQL</code> <code>JavaScript</code></p>
     </td>
