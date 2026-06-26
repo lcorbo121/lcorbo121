@@ -26,41 +26,19 @@ Desarrollador **Full-Stack** y especialista en **Soporte Técnico IT**. Construy
 
 ---
 
-### 🛠️ Stack tecnológico
+<h3 align="center">🛠️ Stack tecnológico</h3>
 
-**Lenguajes**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,java,cs,html,css,less&theme=dark" alt="Lenguajes"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,git,github,vscode,visualstudio,postman&theme=dark" alt="Frameworks y herramientas"/>
+</p>
 
-**Frameworks & Plataformas**
-
-![Yii2](https://img.shields.io/badge/Yii2-0073BB?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-**Datos & IA**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/IA%20/%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<p align="center">
+  <sub>Yii2 · Odoo ERP · Insomnia · IA / LLMs (OpenAI · Claude)</sub>
+</p>
 
 ---
 
