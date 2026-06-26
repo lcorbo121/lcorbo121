@@ -26,6 +26,8 @@
 
 <h3 align="center">Proyectos destacados</h3>
 
+<p align="center"><sub>algunos proyectos</sub></p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
