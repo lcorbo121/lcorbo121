@@ -1,8 +1,8 @@
-<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">About — Lucas Corbo</title>
-  <desc id="desc">A dark terminal console describing Lucas Corbo: full-stack developer and IT support specialist at Datamatic, studying IT analysis at ORT University, building AI bots and the MiTrabajo platform.</desc>
-  <rect width="1200" height="560" rx="28" fill="#08111F"/>
-  <rect x="1" y="1" width="1198" height="558" rx="27" stroke="#1F6FEB" stroke-opacity="0.75" stroke-width="2"/>
+  <desc id="desc">A dark terminal console describing Lucas Corbo: full-stack developer and IT support specialist at Datamatic, studying IT analysis at ORT University and working on the MiTrabajo platform.</desc>
+  <rect width="1200" height="520" rx="28" fill="#08111F"/>
+  <rect x="1" y="1" width="1198" height="518" rx="27" stroke="#1F6FEB" stroke-opacity="0.75" stroke-width="2"/>
   <path d="M0 76H1200" stroke="#1F2937" stroke-width="2"/>
   <circle cx="40" cy="38" r="7" fill="#F87171"/>
   <circle cx="64" cy="38" r="7" fill="#FBBF24"/>
@@ -21,7 +21,5 @@
   <text x="40" y="396" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ now</text>
   <text x="40" y="430" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Datamatic (Asequis S.A.) — since Mar 2025 · 8 h/day · on-site</text>
   <text x="40" y="462" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› IT Analyst @ ORT University (in progress)</text>
-  <text x="40" y="494" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› AI-powered WhatsApp bots + work on the MiTrabajo platform</text>
-
-  <text x="40" y="534" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ contact<tspan fill="#CBD5E1" font-weight="400">  › let's talk Full-Stack, databases &amp; AI</tspan></text>
+  <text x="40" y="494" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Work on the MiTrabajo management platform</text>
 </svg>
