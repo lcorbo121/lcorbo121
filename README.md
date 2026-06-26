@@ -15,10 +15,10 @@
 
 ---
 
-<h3 align="center">🚀 Sobre mí</h3>
+<h3 align="center">🚀 About me</h3>
 
 <p align="center">
-  <img src="./assets/about-console.svg" width="100%" alt="Sobre mí — Lucas Corbo"/>
+  <img src="./assets/about-console.svg" width="100%" alt="About — Lucas Corbo"/>
 </p>
 
 ---

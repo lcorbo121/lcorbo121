@@ -1,27 +1,27 @@
 <svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sobre mí — Lucas Corbo</title>
-  <desc id="desc">A dark terminal console describing Lucas Corbo: full-stack developer and IT support specialist at Datamatic, studying IT analysis at ORT, building AI bots and the MiTrabajo platform.</desc>
+  <title id="title">About — Lucas Corbo</title>
+  <desc id="desc">A dark terminal console describing Lucas Corbo: full-stack developer and IT support specialist at Datamatic, studying IT analysis at ORT University, building AI bots and the MiTrabajo platform.</desc>
   <rect width="1200" height="560" rx="28" fill="#08111F"/>
   <rect x="1" y="1" width="1198" height="558" rx="27" stroke="#1F6FEB" stroke-opacity="0.75" stroke-width="2"/>
   <path d="M0 76H1200" stroke="#1F2937" stroke-width="2"/>
   <circle cx="40" cy="38" r="7" fill="#F87171"/>
   <circle cx="64" cy="38" r="7" fill="#FBBF24"/>
   <circle cx="88" cy="38" r="7" fill="#34D399"/>
-  <text x="118" y="44" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">lcorbo@datamatic: ~/sobre-mi</text>
+  <text x="118" y="44" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">lcorbo@datamatic: ~/about</text>
 
   <text x="40" y="128" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ whoami</text>
-  <text x="40" y="162" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">Full-Stack Developer · IT Support Specialist · Analista en TI</text>
+  <text x="40" y="162" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">Full-Stack Developer · IT Support Specialist · IT Analyst student</text>
 
   <text x="40" y="214" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ about</text>
-  <text x="40" y="248" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">Construyo apps web con JavaScript, PHP (Yii2) y SQL bajo MVC,</text>
-  <text x="40" y="280" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">optimizo bases de datos y acompaño al usuario final en todo</text>
-  <text x="40" y="312" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">el ciclo: migración, implementación, soporte y mejora continua.</text>
-  <text x="40" y="344" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">Integro IA (LLMs) en el flujo de desarrollo con criterio propio.</text>
+  <text x="40" y="248" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">I build web apps with JavaScript, PHP (Yii2) and SQL under MVC,</text>
+  <text x="40" y="280" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">optimize databases and support end users across the full cycle:</text>
+  <text x="40" y="312" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">migration, deployment, support and continuous improvement.</text>
+  <text x="40" y="344" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">I integrate AI (LLMs) into my workflow with my own judgment.</text>
 
   <text x="40" y="396" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ now</text>
-  <text x="40" y="430" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Datamatic (Asequis S.A.) — desde mar 2025 · 8 h/día · presencial</text>
-  <text x="40" y="462" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Analista en Tecnologías de la Información @ Universidad ORT</text>
-  <text x="40" y="494" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Bots con IA en WhatsApp + mejoras en el sistema MiTrabajo</text>
+  <text x="40" y="430" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› Datamatic (Asequis S.A.) — since Mar 2025 · 8 h/day · on-site</text>
+  <text x="40" y="462" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› IT Analyst @ ORT University (in progress)</text>
+  <text x="40" y="494" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">› AI-powered WhatsApp bots + work on the MiTrabajo platform</text>
 
-  <text x="40" y="534" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ contact<tspan fill="#CBD5E1" font-weight="400">  › hablemos de Full-Stack, bases de datos e IA</tspan></text>
+  <text x="40" y="534" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">$ contact<tspan fill="#CBD5E1" font-weight="400">  › let's talk Full-Stack, databases &amp; AI</tspan></text>
 </svg>
