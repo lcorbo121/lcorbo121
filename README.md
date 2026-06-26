@@ -4,19 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dev-console.svg" width="100%" alt="Lucas Corbo — Dev Console"/>
+  <img src="./assets/console.svg" width="100%" alt="Lucas Corbo — Console"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lcorbo-garateguy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lcorbo@datamatic.com.uy"><img src="https://img.shields.io/badge/Email%20laboral-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email laboral"/></a>
   <a href="mailto:lucas.corbo.garateguy@gmail.com"><img src="https://img.shields.io/badge/Email%20personal-D14836?style=flat&logo=gmail&logoColor=white" alt="Email personal"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/about-console.svg" width="100%" alt="About — Lucas Corbo"/>
 </p>
 
 ---
